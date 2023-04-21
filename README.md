@@ -1,3 +1,3 @@
 **MELODIO HELP URL**
 
-Submit help requests here for Melodio
+Please use the issues feature to submit help requests, or bug reports.
